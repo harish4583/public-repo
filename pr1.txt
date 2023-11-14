@@ -1,3 +1,7 @@
+<<<<<<< HEAD
  this is the first file in the feature branch
 
  now am im doing changes in thsi file
+=======
+   hahd this is the first file in the feature branch
+>>>>>>> feature2
